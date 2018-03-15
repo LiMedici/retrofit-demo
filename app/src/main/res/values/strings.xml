@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">retrofit-demo</string>
+    <string name="data_network_error">网络错误!!!</string>
+    <string name="data_rsp_error_unknown">未知错误(ρ_・).。</string>
+    <string name="data_rsp_error_service">服务器错误(ρ_・).。</string>
+</resources>
